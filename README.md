@@ -64,7 +64,7 @@ Docker • Kubernetes • Azure • GitHub Actions • Coolify • Nginx • Lin
 ### 💼 About
 
 - **4+ years** in full-stack development and DevOps
-- **BSc Honours in IT** (Distinction) | Currently pursuing **MSc in Computing Research**
+- **BSc Honours in IT**  | **BCOM Bachelors in Business Information Systems**
 - IITPSA member
 
 ---
