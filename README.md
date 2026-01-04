@@ -48,16 +48,6 @@ Docker • Kubernetes • Azure • GitHub Actions • Coolify • Nginx • Lin
 | [**eFines**](https://e-fines.com) | Mobile traffic fine payments | Laravel, React Native |
 | [**AppsProjectBook**](https://appsprojectbook.com) | Self-hosted DevOps platform | Docker, Coolify |
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=grahamkatana&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2dd4a7&icon_color=2dd4a7" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=grahamkatana&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2dd4a7" alt="Top Languages" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamkatana&theme=dark&hide_border=true&background=0d1117&stroke=2dd4a7&ring=2dd4a7&fire=2dd4a7&currStreakLabel=2dd4a7" alt="GitHub Streak" />
 
 ---
 
