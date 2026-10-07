@@ -43,7 +43,6 @@ Docker • Kubernetes • Azure • GitHub Actions • Coolify • Nginx • Lin
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**SovQuant**](https://sovquant.com) | Software development agency | React, Node.js, Python |
 | [**Tekbridge**](https://tekbridge.co.za) | Full-stack dev & DevOps portfolio | Various |
 | [**eFines**](https://e-fines.com) | Mobile traffic fine payments | Laravel, React Native |
 | [**AppsProjectBook**](https://appsprojectbook.com) | Self-hosted DevOps platform | Docker, Coolify |
